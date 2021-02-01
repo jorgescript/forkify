@@ -1,0 +1,16 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe application build in vainilla js",
+  "main": "index.html",
+  "author": "Jorge Mosqueda",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel": "^1.12.4",
+    "sass": "^1.32.5"
+  }
+}
